@@ -1,12 +1,15 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontSize=40&text=Nadiya%20Torbyn&textBg=false"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=15F7F5&width=435&lines=I'm+a+Computer+Science+Student!;Always+looking+to+learn+new+things!" alt="Typing SVG" />
+  
+  # Nadiya Torbyn
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1500&center=true&color=15F7F5&width=435&lines=I'm+a+Computer+Science+Student!;Always+looking+to+learn+new+things!" alt="Typing SVG" />
+  
 </div>
 
 ## ⭐ About Me
 - I'm a full time Computer Science student at University of Regina.
 - I'm looking to expand my skills and make unique projects.
-- I'm currently working on creating m
+- Currently practicing my website building.
+- Looking to learn React. 
 
 ## 🛠️ My Tech Stack
 ### 💻 Programming Languages
