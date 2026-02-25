@@ -1,24 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B;I'm+a+Student;Always+learning+new+things!" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontSize=40&text=Nadiya%20Torbyn&textBg=false"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=15F7F5&width=435&lines=I'm+a+Computer+Science+Student!;Always+looking+to+learn+new+things!" alt="Typing SVG" />
 </div>
 
-<!--
-**NadiyaTorbyn/NadiyaTorbyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ About Me
+- I'm a full time Computer Science student at University of Regina.
+- I'm looking to expand my skills and make unique projects.
+- I'm currently working on creating m
 
 ## 🛠️ My Tech Stack
-
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,4 +23,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Backend & Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🌐 Let's Connect!
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntorbyn@gmailom)
 
